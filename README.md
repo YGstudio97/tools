@@ -1,1 +1,1 @@
-"# Demo Site" https://toolsdemo.netlify.app/
+"#Join Us DISCORD" https://discord.gg/w297E6jyDQ
